@@ -9,7 +9,7 @@
 
 html{
     scroll-behavior: smooth;
-    font-family:cursive;
+    font-family:"Roboto";
 }
 header{
     background-color: white;
@@ -58,7 +58,6 @@ main a, a:visited{
     color: darkmagenta;
 }
 h2{
-    font-family:"Roboto";
     color: hotpink;
     font-weight: bolder;
     text-align: center;
